@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+.bemvindo { 
+    background: url("/src/assets/ima/viagem1.jpeg");  
+    font-size: 4rem;
+}
+
+
+#footer{
+    margin-top: 30px;    
+    text-align: center;
+  }
+
+.bar {
+    display: inline;  
+   
+    color:gray;
+    padding: 120px;    
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    margin-top: auto;
+    }
+
+.display{
+    padding: 1em;
+    width: 100%;
+    text-align: center;
+    width: 5%;
+
+}
+
+.Display {
+    background-color: rgb(255, 241, 223);
+    padding: 1em;    
+}
+
+.h2{
+    box-align: center;
+    color: #000000;
+}
+
+.asidelist {
+    display: flex;
+}
+
+.l{
+    color: #fd0000;
+    box-align: center;
+}
+
+.t{
+    color:#4F4F4F;
+    box-align: center;
+    text-align: center;
+}
+
+.img{
+    width: 200px;
+    height: 120px;
+    max-width: 100%;
+    height: auto;
+}
+
+.asidelist {
+    display: flex;
+}
+  
+.asidelist ul {
+
+    margin-left: 30px;
+    border-radius: 5px;
+    padding-top: 2px;
+    border: 1px;
+}
+.packages{
+    width: 120%;
+
+
+}
+
+
+
+.imge{
+    width: 5%;
+    text-align: center;
+    margin: bottom;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
+    height: auto;
+}
+  
+.img{
+    width: 200px;
+    height: 120px;
+    max-width: 100%;
+    height: auto;
+}
+  
+.font1{
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    font-weight: bold
+}
+  
+.font2{
+    font-family: Arial;
+    font-size: 14px;
+    color: black;
+    text-align: center;
+}
+  
+.font3{
+    font-family: Arial;
+    font-size: 17px;
+    color: red;
+    text-align: center;
+    font-weight: bold
+}
+
+.font4{
+    font-family: Arial;
+    font-size: 19px;
+    color: black;
+    text-align: center;
+    font-weight: bold
+}
+
+.destinos{
+    color:#4F4F4F;
+    box-align: center;
+    text-align: center;
+    background: url("/src/assets/ima/viagem1.jpeg");  
+}
+
+.p{
+    color: black;
+    box-align: center;
+    text-align: center;
+    font-size: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.a{
+    text-align: center;
+    font-size:large;
+}
+
+.d{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.r{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+.header{
+    color:#4F4F4F;
+    box-align: center;
+    text-align: center;   
+
+}
+
+.cont{
+    color:#4F4F4F;
+    box-align: center;
+    text-align: center;   
+
+
+}
+
+.container{
+    color:#4F4F4F;
+    box-align: center;
+    text-align: center;
+    font-size: 220%;
+
+
+}
